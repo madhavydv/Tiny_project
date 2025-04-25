@@ -1,0 +1,14 @@
+**Project Structure:**
+```
+quiz_maker/
+│
+├── app.py
+├── auth.py
+├── database.py
+├── quiz.py
+├── charts.py
+├── .env
+├── requirements.txt
+├── style.css
+└── users.db
+```
